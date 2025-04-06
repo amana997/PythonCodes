@@ -14,3 +14,4 @@ for _ in range(int(input())):
         if d[i] > r:
             r = d[i]
     print(r)
+

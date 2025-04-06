@@ -9,3 +9,4 @@ for _ in range(int(input())):
         print(x)
     else:
         print(-1)
+
