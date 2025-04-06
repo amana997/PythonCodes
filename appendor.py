@@ -1,5 +1,5 @@
 for _ in range(int(input())):
-    n,y = map(int, input().split())
+    n, y = map(int, input().split())
     a = list(map(int,input().split()))
     bor = 0
     for i in a:
@@ -9,4 +9,3 @@ for _ in range(int(input())):
         print(x)
     else:
         print(-1)
-
